@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+    background-color: #23354B;
+    position: relative;
+    width: 100%;
+}
+
+li{
+    float: left;
+}
+
+a{
+    border-right: 1px dotted #ffffff;
+    text-decoration: none;
+    color: #ccc;
+    position: relative;
+    display: block;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+a:hover{
+    background-color: #009FE1;
+    color: #fff;
+}
+
+i{
+    padding-right: 5px;
+}
